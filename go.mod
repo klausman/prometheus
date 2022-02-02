@@ -10,7 +10,7 @@ require (
 	github.com/Azure/go-autorest/autorest/validation v0.3.1 // indirect
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137
 	github.com/armon/go-metrics v0.3.3 // indirect
-	github.com/aws/aws-sdk-go v1.42.31
+	github.com/aws/aws-sdk-go v1.42.44
 	github.com/cespare/xxhash/v2 v2.1.2
 	github.com/containerd/containerd v1.5.7 // indirect
 	github.com/dennwc/varint v1.0.0
@@ -30,7 +30,6 @@ require (
 	github.com/golang/snappy v0.0.4
 	github.com/google/pprof v0.0.0-20211214055906-6f57359322fd
 	github.com/gophercloud/gophercloud v0.24.0
-	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/hashicorp/consul/api v1.12.0
 	github.com/hashicorp/go-hclog v0.12.2 // indirect
@@ -80,8 +79,8 @@ require (
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
-	k8s.io/api v0.22.4
-	k8s.io/apimachinery v0.22.4
+	k8s.io/api v0.23.3
+	k8s.io/apimachinery v0.23.3
 	k8s.io/client-go v0.22.4
 	k8s.io/klog v1.0.0
 	k8s.io/klog/v2 v2.40.1
